@@ -1,0 +1,8 @@
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.AssemblyReference.cache
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfoInputs.cache
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.AssemblyInfo.cs
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cache
+D:\Programas testes\ContosoUniversity\obj\Debug\net8.0\ContosoUniversity.RazorAssemblyInfo.cs
